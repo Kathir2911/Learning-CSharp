@@ -1,0 +1,14 @@
+C:\Users\kathi\Student_Grading_Application\bin\Debug\net9.0\Student_Grading_Application.exe
+C:\Users\kathi\Student_Grading_Application\bin\Debug\net9.0\Student_Grading_Application.deps.json
+C:\Users\kathi\Student_Grading_Application\bin\Debug\net9.0\Student_Grading_Application.runtimeconfig.json
+C:\Users\kathi\Student_Grading_Application\bin\Debug\net9.0\Student_Grading_Application.dll
+C:\Users\kathi\Student_Grading_Application\bin\Debug\net9.0\Student_Grading_Application.pdb
+C:\Users\kathi\Student_Grading_Application\obj\Debug\net9.0\Student_Grading_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathi\Student_Grading_Application\obj\Debug\net9.0\Student_Grading_Application.AssemblyInfoInputs.cache
+C:\Users\kathi\Student_Grading_Application\obj\Debug\net9.0\Student_Grading_Application.AssemblyInfo.cs
+C:\Users\kathi\Student_Grading_Application\obj\Debug\net9.0\Student_Grading_Application.csproj.CoreCompileInputs.cache
+C:\Users\kathi\Student_Grading_Application\obj\Debug\net9.0\Student_Grading_Application.dll
+C:\Users\kathi\Student_Grading_Application\obj\Debug\net9.0\refint\Student_Grading_Application.dll
+C:\Users\kathi\Student_Grading_Application\obj\Debug\net9.0\Student_Grading_Application.pdb
+C:\Users\kathi\Student_Grading_Application\obj\Debug\net9.0\Student_Grading_Application.genruntimeconfig.cache
+C:\Users\kathi\Student_Grading_Application\obj\Debug\net9.0\ref\Student_Grading_Application.dll
